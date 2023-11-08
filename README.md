@@ -3,7 +3,7 @@
 
 
 ## start EXE
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/David188888/Gradesearch)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/david188888/Gradesearch)
 
 
 ## start the search
